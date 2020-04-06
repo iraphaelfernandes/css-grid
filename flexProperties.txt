@@ -1,0 +1,4 @@
+display: flex | incline-flex
+flex-directon: row | column
+flex-wrap: wrap| nowrap | wrapreverse
+flex-basis: <length>
